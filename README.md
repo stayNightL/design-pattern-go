@@ -12,3 +12,5 @@
 4. 分析存在的问题
 5. 解决问题和实现代码
 6. 代码目录
+## 目录
+1. [访问者模式](https://github.com/lonesomeWaker/design-pattern-go/tree/master/visitor)
