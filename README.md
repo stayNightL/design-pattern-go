@@ -15,3 +15,4 @@
 ## 目录
 1. [访问者模式](https://github.com/lonesomeWaker/design-pattern-go/tree/master/visitor)
 2. [建造者模式](https://github.com/lonesomeWaker/design-pattern-go/tree/master/builder)
+3. [命令模式](https://github.com/lonesomeWaker/design-pattern-go/tree/master/command)
